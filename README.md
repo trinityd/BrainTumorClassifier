@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/23157710/147060061-162abdf2-b1a9-4ec1-ac9c-8fde086a7977.png)
+
+
 # Tested on Windows 10 with an Nvidia GPU:
 - Download the term project notebook
 - Download the kaggle brain tumor dataset: https://www.kaggle.com/masoudnickparvar/brain-tumor-mri-dataset
